@@ -1,5 +1,8 @@
 # 🚀 SchemeViz: Interactive Scheme Parser & Visualizer
 
+![Screenshot 2025-04-19 at 3 55 27 PM](https://github.com/user-attachments/assets/eee7fbc0-54aa-46e4-bd53-d973d0e8855b)
+
+
 Welcome to **SchemeViz**, a powerful and interactive tool that brings Scheme-like language parsing to life! Built with modern React and featuring stunning visualizations, this tool transforms complex code into beautiful, interactive representations.
 
 ## ✨ Key Features
@@ -11,8 +14,6 @@ Welcome to **SchemeViz**, a powerful and interactive tool that brings Scheme-lik
 
 ### 🎨 Multiple Visualization Modes
 - **Tree View**: Classic binary tree representation with ASCII art
-- **Flow Graph**: Interactive node-based visualization using ReactFlow
-- **Visual Tree**: Animated tree visualization with smooth transitions
 - **ASCII Tree**: Clean, text-based tree representation
 
 ### 🎮 Interactive Experience
